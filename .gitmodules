@@ -1,0 +1,36 @@
+[submodule "streamparser"]
+	path = streamparser
+	url = git@github.com:apertium/streamparser.git
+	branch = master
+[submodule "apertium-html-tools"]
+	path = apertium-html-tools
+	url = git@github.com:apertium/apertium-html-tools.git
+	branch = master
+[submodule "patcher"]
+	path = patcher
+	url = git@github.com:apertium/patcher.git
+	branch = master
+[submodule "apertium-apy"]
+	path = apertium-apy
+	url = git@github.com:apertium/apertium-apy.git
+	branch = master
+[submodule "pairviewer"]
+	path = pairviewer
+	url = git@github.com:apertium/pairviewer.git
+	branch = master
+[submodule "phenny"]
+	path = phenny
+	url = git@github.com:apertium/phenny.git
+	branch = master
+[submodule "apertium-init"]
+	path = apertium-init
+	url = git@github.com:apertium/apertium-init.git
+	branch = master
+[submodule "apertium-on-github"]
+	path = apertium-on-github
+	url = git@github.com:apertium/apertium-on-github.git
+	branch = master
+[submodule "family-visualizations"]
+	path = family-visualizations
+	url = git@github.com:apertium/family-visualizations.git
+	branch = master
