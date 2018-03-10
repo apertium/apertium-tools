@@ -34,3 +34,7 @@
 	path = family-visualizations
 	url = git@github.com:apertium/family-visualizations.git
 	branch = master
+[submodule "apertium-simpleton"]
+	path = apertium-simpleton
+	url = git@github.com:apertium/apertium-simpleton.git
+	branch = master
