@@ -38,3 +38,7 @@
 	path = apertium-simpleton
 	url = git@github.com:apertium/apertium-simpleton.git
 	branch = master
+[submodule "apertium-stats-service"]
+	path = apertium-stats-service
+	url = git@github.com:apertium/apertium-stats-service.git
+	branch = master
