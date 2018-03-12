@@ -42,3 +42,7 @@
 	path = apertium-stats-service
 	url = git@github.com:apertium/apertium-stats-service.git
 	branch = master
+[submodule "apertium-packaging"]
+	path = apertium-packaging
+	url = git@github.com:apertium/apertium-packaging.git
+	branch = master
