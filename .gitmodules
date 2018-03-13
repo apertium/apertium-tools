@@ -46,3 +46,7 @@
 	path = apertium-packaging
 	url = git@github.com:apertium/apertium-packaging.git
 	branch = master
+[submodule "lttoolbox-java"]
+	path = lttoolbox-java
+	url = git@github.com:apertium/lttoolbox-java.git
+	branch = master
