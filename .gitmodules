@@ -50,3 +50,7 @@
 	path = lttoolbox-java
 	url = git@github.com:apertium/lttoolbox-java.git
 	branch = master
+[submodule "apertium-quality"]
+	path = apertium-quality
+	url = git@github.com:apertium/apertium-quality.git
+	branch = master
