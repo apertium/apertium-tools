@@ -54,3 +54,7 @@
 	path = apertium-quality
 	url = git@github.com:apertium/apertium-quality.git
 	branch = master
+[submodule "apertium-weights-learner"]
+	path = apertium-weights-learner
+	url = git@github.com:apertium/apertium-weights-learner.git
+	branch = master
