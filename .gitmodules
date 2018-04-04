@@ -58,3 +58,7 @@
 	path = apertium-weights-learner
 	url = git@github.com:apertium/apertium-weights-learner.git
 	branch = master
+[submodule "WikiExtractor"]
+	path = WikiExtractor
+	url = git@github.com:apertium/WikiExtractor.git
+	branch = master
