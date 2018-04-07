@@ -62,3 +62,7 @@
 	path = WikiExtractor
 	url = git@github.com:apertium/WikiExtractor.git
 	branch = master
+[submodule "apertium-c-formatters"]
+	path = apertium-c-formatters
+	url = git@github.com:apertium/apertium-c-formatters.git
+	branch = master
