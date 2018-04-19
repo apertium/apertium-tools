@@ -66,3 +66,7 @@
 	path = apertium-c-formatters
 	url = git@github.com:apertium/apertium-c-formatters.git
 	branch = master
+[submodule "apertium-dixtools"]
+	path = apertium-dixtools
+	url = git@github.com:apertium/apertium-dixtools.git
+	branch = master
