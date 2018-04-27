@@ -70,3 +70,7 @@
 	path = apertium-dixtools
 	url = git@github.com:apertium/apertium-dixtools.git
 	branch = master
+[submodule "docker"]
+	path = docker
+	url = git@github.com:apertium/docker.git
+	branch = master
