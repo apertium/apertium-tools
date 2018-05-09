@@ -78,3 +78,7 @@
 	path = apertium-caffeine
 	url = git@github.com:apertium/apertium-caffeine.git
 	branch = master
+[submodule "apertium-viewer"]
+	path = apertium-viewer
+	url = git@github.com:apertium/apertium-viewer.git
+	branch = master
