@@ -82,3 +82,7 @@
 	path = apertium-viewer
 	url = git@github.com:apertium/apertium-viewer.git
 	branch = master
+[submodule "apertium-omegat"]
+	path = apertium-omegat
+	url = git@github.com:apertium/apertium-omegat.git
+	branch = master
