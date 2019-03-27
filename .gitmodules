@@ -90,3 +90,11 @@
 	path = apertium-wiktionary-tools
 	url = git@github.com:apertium/apertium-wiktionary-tools.git
 	branch = master
+[submodule "apertium-wiki-tools"]
+	path = apertium-wiki-tools
+	url = git@github.com:apertium/apertium-wiki-tools.git
+	branch = master
+[submodule "apertium-news-scrapers"]
+	path = apertium-news-scrapers
+	url = git@github.com:apertium/apertium-news-scrapers.git
+	branch = master
