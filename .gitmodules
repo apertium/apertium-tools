@@ -86,3 +86,7 @@
 	path = apertium-omegat
 	url = git@github.com:apertium/apertium-omegat.git
 	branch = master
+[submodule "apertium-wiktionary-tools"]
+	path = apertium-wiktionary-tools
+	url = git@github.com:apertium/apertium-wiktionary-tools.git
+	branch = master
