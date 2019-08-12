@@ -102,3 +102,7 @@
 	path = apertium-anaphora
 	url = git@github.com:apertium/apertium-anaphora.git
 	branch = master
+[submodule "apertium-recursive"]
+	path = apertium-recursive
+	url = git@github.com:apertium/apertium-recursive.git
+	branch = master
