@@ -106,3 +106,7 @@
 	path = apertium-recursive
 	url = git@github.com:apertium/apertium-recursive.git
 	branch = master
+[submodule "apertium-swoa"]
+	path = apertium-swoa
+	url = git@github.com:apertium/apertium-swoa.git
+	branch = master
