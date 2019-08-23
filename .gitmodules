@@ -106,7 +106,7 @@
 	path = apertium-recursive
 	url = git@github.com:apertium/apertium-recursive.git
 	branch = master
-[submodule "apertium-woa"]
-	path = apertium-woa
-	url = git@github.com:apertium/apertium-woa.git
+[submodule "apertium-weighting-tools"]
+	path = apertium-weighting-tools
+	url = git@github.com:apertium/apertium-weighting-tools.git
 	branch = master
