@@ -110,3 +110,7 @@
 	path = apertium-weighting-tools
 	url = git@github.com:apertium/apertium-weighting-tools.git
 	branch = master
+[submodule "apertium-all-dev"]
+	path = apertium-all-dev
+	url = git@github.com:apertium/apertium-all-dev.git
+	branch = master
