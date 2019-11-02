@@ -114,3 +114,7 @@
 	path = apertium-all-dev
 	url = git@github.com:apertium/apertium-all-dev.git
 	branch = master
+[submodule "apertium-python"]
+	path = apertium-python
+	url = git@github.com:apertium/apertium-python.git
+	branch = master
