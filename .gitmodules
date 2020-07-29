@@ -118,3 +118,7 @@
 	path = apertium-python
 	url = git@github.com:apertium/apertium-python.git
 	branch = master
+[submodule "lexd"]
+	path = lexd
+	url = git@github.com:apertium/lexd.git
+	branch = master
